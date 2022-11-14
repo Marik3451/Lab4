@@ -1,0 +1,8 @@
+Circle radius = 8
+Circle area = 631.655
+Circle length = 50.2655
+
+Side a = 10
+Side b = 15
+Rectangle area = 150
+Rectangle length = 50
